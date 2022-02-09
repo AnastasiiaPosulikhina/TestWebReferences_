@@ -48,3 +48,11 @@ C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETC
 C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETCore31\obj\Debug\netcoreapp3.1\WebApplicationNETCore31.pdb
 C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETCore31\obj\Debug\netcoreapp3.1\WebApplicationNETCore31.genruntimeconfig.cache
 C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETCore31\obj\Debug\netcoreapp3.1\WebApplicationNETCore31.csproj.CopyComplete
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETCore31\bin\Debug\netcoreapp3.1\Connected Services\Calculator_x0020_Web_x0020_Service\ConnectedService.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETCore31\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETCore31\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETCore31\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETCore31\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETCore31\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETCore31\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WebApplicationNETCore31\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll

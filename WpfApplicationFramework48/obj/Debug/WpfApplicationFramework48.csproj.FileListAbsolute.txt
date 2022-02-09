@@ -1,0 +1,16 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\bin\Debug\WpfApplicationFramework48.exe.config
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\bin\Debug\WpfApplicationFramework48.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\bin\Debug\WpfApplicationFramework48.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\WpfApplicationFramework48.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\WpfApplicationFramework48.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\MainWindow.g.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\App.g.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\WpfApplicationFramework48_MarkupCompile.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\WpfApplicationFramework48_MarkupCompile.lref
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\MainWindow.baml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\WpfApplicationFramework48.g.resources
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\WpfApplicationFramework48.Properties.Resources.resources
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\WpfApplicationFramework48.csproj.GenerateResource.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\WpfApplicationFramework48.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\WpfApplicationFramework48.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WpfApplicationFramework48\obj\Debug\WpfApplicationFramework48.pdb

@@ -1,0 +1,10 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WindowsFormsAppFramework472\bin\Debug\WindowsFormsAppFramework472.exe.config
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WindowsFormsAppFramework472\bin\Debug\WindowsFormsAppFramework472.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WindowsFormsAppFramework472\bin\Debug\WindowsFormsAppFramework472.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WindowsFormsAppFramework472\obj\Debug\WindowsFormsAppFramework472.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WindowsFormsAppFramework472\obj\Debug\WindowsFormsAppFramework472.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WindowsFormsAppFramework472\obj\Debug\WindowsFormsAppFramework472.Properties.Resources.resources
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WindowsFormsAppFramework472\obj\Debug\WindowsFormsAppFramework472.csproj.GenerateResource.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WindowsFormsAppFramework472\obj\Debug\WindowsFormsAppFramework472.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WindowsFormsAppFramework472\obj\Debug\WindowsFormsAppFramework472.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\WindowsFormsAppFramework472\obj\Debug\WindowsFormsAppFramework472.pdb

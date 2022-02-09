@@ -1,0 +1,12 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\bin\Debug\netstandard2.1\XamarinFormsLibrary.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\bin\Debug\netstandard2.1\XamarinFormsLibrary.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\bin\Debug\netstandard2.1\XamarinFormsLibrary.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\obj\Debug\netstandard2.1\XamarinFormsLibrary.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\obj\Debug\netstandard2.1\XamarinFormsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\obj\Debug\netstandard2.1\XamarinFormsLibrary.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\obj\Debug\netstandard2.1\XamarinFormsLibrary.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\obj\Debug\netstandard2.1\XamarinFormsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\obj\Debug\netstandard2.1\XamarinFormsLibrary.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\ClassicProjects\XamarinFormsLibrary1\obj\Debug\netstandard2.1\XamarinFormsLibrary.pdb

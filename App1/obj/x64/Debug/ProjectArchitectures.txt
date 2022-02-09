@@ -1,1 +1,1 @@
-C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\App1\App1.csproj;x64
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\App1\UWPApp.csproj;x64

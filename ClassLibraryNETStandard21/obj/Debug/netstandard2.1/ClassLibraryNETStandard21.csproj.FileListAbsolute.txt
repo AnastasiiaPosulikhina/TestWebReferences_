@@ -1,0 +1,10 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\ClassLibraryNETStandard21\bin\Debug\netstandard2.1\ClassLibraryNETStandard21.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\ClassLibraryNETStandard21\bin\Debug\netstandard2.1\ClassLibraryNETStandard21.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\ClassLibraryNETStandard21\bin\Debug\netstandard2.1\ClassLibraryNETStandard21.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\ClassLibraryNETStandard21\obj\Debug\netstandard2.1\ClassLibraryNETStandard21.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\ClassLibraryNETStandard21\obj\Debug\netstandard2.1\ClassLibraryNETStandard21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\ClassLibraryNETStandard21\obj\Debug\netstandard2.1\ClassLibraryNETStandard21.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\ClassLibraryNETStandard21\obj\Debug\netstandard2.1\ClassLibraryNETStandard21.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\ClassLibraryNETStandard21\obj\Debug\netstandard2.1\ClassLibraryNETStandard21.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\ClassLibraryNETStandard21\obj\Debug\netstandard2.1\ClassLibraryNETStandard21.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TestWebReferences\ClassLibraryNETStandard21\obj\Debug\netstandard2.1\ClassLibraryNETStandard21.pdb
