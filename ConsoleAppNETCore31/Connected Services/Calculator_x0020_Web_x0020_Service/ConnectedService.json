@@ -1,0 +1,22 @@
+{
+  "providerId": "Microsoft.Tools.ServiceModel.Svcutil",
+  "version": "1.0.0",
+  "ExtendedData": {
+    "inputs": [
+      "https://ecs.syr.edu/faculty/fawcett/handouts/cse686/code/calcWebService/Calc.asmx"
+    ],
+    "namespaceMappings": [
+      "*, ConsoleAppNETCore31.Calculator_x0020_Web_x0020_Service"
+    ],
+    "outputFile": "Calculator_x0020_Web_x0020_Service.cs",
+    "references": [
+      "System.Reflection.DispatchProxy, {System.Reflection.DispatchProxy, 4.5.0}",
+      "System.Security.AccessControl, {System.Security.AccessControl, 4.5.0}",
+      "System.Security.Cryptography.Xml, {System.Security.Cryptography.Xml, 4.5.0}",
+      "System.Security.Permissions, {System.Security.Permissions, 4.5.0}",
+      "System.Security.Principal.Windows, {System.Security.Principal.Windows, 4.5.0}"
+    ],
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "All"
+  }
+}
