@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="d3b032a9-36f1-4c5f-b8a6-3ace7ad4d99d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://www.w3schools.com/xml/tempconvert.asmx" Protocol="https" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="tempconvert.wsdl" MetadataType="Wsdl" ID="6e1f6968-7b21-4e9e-a18a-59f3bd9c3f80" SourceId="1" SourceUrl="https://www.w3schools.com/xml/tempconvert.asmx?wsdl" />
+    <MetadataFile FileName="tempconvert.disco" MetadataType="Disco" ID="8f2b20e9-964d-477a-a6f1-fc3e3aa0d29c" SourceId="1" SourceUrl="https://www.w3schools.com/xml/tempconvert.asmx?disco" />
+  </Metadata>
+  <Extensions />
+</ReferenceGroup>

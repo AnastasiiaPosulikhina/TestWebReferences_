@@ -1,0 +1,15 @@
+{
+  "providerId": "Microsoft.Tools.ServiceModel.Svcutil",
+  "version": "1.0.0",
+  "ExtendedData": {
+    "inputs": [
+      "https://ecs.syr.edu/faculty/fawcett/handouts/cse686/code/calcWebService/Calc.asmx"
+    ],
+    "namespaceMappings": [
+      "*, WebApplicationNETCore31"
+    ],
+    "outputFile": "Calculator_x0020_Web_x0020_Service.cs",
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "All"
+  }
+}
