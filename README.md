@@ -6,7 +6,7 @@ Repeat for all the projects in the following solution folders:
 - ASP.NET
 - ASP.NET Core
 - Console apps and libs
-- Desktop
+- Desktop (Win only)
 - Xamarin
 ### Add Web Reference
 Expected: 
