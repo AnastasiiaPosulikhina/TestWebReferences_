@@ -1,8 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "jJAn06sL+ybhrpnWqunisr0qGtYoH1RqA6Df9C2lw3hF3djAxcwTnUfC0nD1YAGGIYxsLemU8Cis18zjX7UJbQ==",
+  "dgSpecHash": "SIT85EG3rgwmIaG0j4j+BJkcDenSyAyijWqN0vwUzGxYKw1X84gbF5DhRtHJsjFfk9bjaOUFod6DaW4efYigsw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\TestWebReferences\\ClassLibraryNETStandard21\\ClassLibraryNETStandard21.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.private.servicemodel\\4.6.0\\system.private.servicemodel.4.6.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.security.cryptography.cng\\4.4.0\\system.security.cryptography.cng.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.pkcs\\4.5.0\\system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.servicemodel.duplex\\4.6.0\\system.servicemodel.duplex.4.6.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.servicemodel.http\\4.6.0\\system.servicemodel.http.4.6.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.servicemodel.nettcp\\4.6.0\\system.servicemodel.nettcp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.servicemodel.primitives\\4.6.0\\system.servicemodel.primitives.4.6.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\system.servicemodel.security\\4.6.0\\system.servicemodel.security.4.6.0.nupkg.sha512"
+  ],
   "logs": []
 }

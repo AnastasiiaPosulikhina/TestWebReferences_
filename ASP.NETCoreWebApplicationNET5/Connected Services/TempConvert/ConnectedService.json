@@ -1,0 +1,19 @@
+{
+  "providerId": "Microsoft.Tools.ServiceModel.Svcutil",
+  "version": "1.0.0",
+  "ExtendedData": {
+    "inputs": [
+      "https://www.w3schools.com/xml/tempconvert.asmx"
+    ],
+    "namespaceMappings": [
+      "*, ASP.NETCoreWebApplicationNET5.TempConvert"
+    ],
+    "outputFile": "TempConvert.cs",
+    "references": [
+      "Microsoft.AspNetCore.SpaProxy, {Microsoft.AspNetCore.SpaProxy, 6.0.1}"
+    ],
+    "serializerMode": "XmlSerializer",
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}

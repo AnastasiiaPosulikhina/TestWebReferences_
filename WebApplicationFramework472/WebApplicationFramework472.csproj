@@ -6,7 +6,7 @@
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
         <SchemaVersion>2.0</SchemaVersion>
-        <ProjectGuid>{D0A174AE-A8D2-48CF-AE85-2D59E2F1BAD1}</ProjectGuid>
+        <ProjectGuid>{919BA29E-324A-415A-B946-10EDD06E725F}</ProjectGuid>
         <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -118,10 +118,10 @@
         <Compile Include="App_Start\BundleConfig.cs" />
         <Compile Include="App_Start\FilterConfig.cs" />
         <Compile Include="App_Start\RouteConfig.cs" />
-        <Compile Include="Connected Services\Calculator_x0020_Web_x0020_Service\Calculator_x0020_Web_x0020_Service.cs">
+        <Compile Include="Connected Services\TempConvert\TempConvert.cs">
           <AutoGen>True</AutoGen>
           <DesignTime>True</DesignTime>
-          <DependentUpon>Calculator_x0020_Web_x0020_Service.svcmap</DependentUpon>
+          <DependentUpon>TempConvert.svcmap</DependentUpon>
         </Compile>
         <Compile Include="Controllers\HomeController.cs" />
         <Compile Include="Global.asax.cs">
@@ -140,9 +140,9 @@
         <Content Include="Content\Site.css" />
         <Content Include="Scripts\bootstrap.js" />
         <Content Include="Scripts\bootstrap.min.js" />
-        <None Include="Connected Services\Calculator_x0020_Web_x0020_Service\Calculator_x0020_Web_x0020_Service.svcmap">
+        <None Include="Connected Services\TempConvert\TempConvert.svcmap">
           <Generator>WCF Proxy Generator</Generator>
-          <LastGenOutput>Calculator_x0020_Web_x0020_Service.cs</LastGenOutput>
+          <LastGenOutput>TempConvert.cs</LastGenOutput>
         </None>
         <None Include="Scripts\jquery-3.3.1.intellisense.js" />
         <Content Include="Scripts\jquery-3.3.1.js" />
@@ -191,7 +191,7 @@
       <WCFMetadata Include="Connected Services" />
     </ItemGroup>
     <ItemGroup>
-      <WCFMetadataStorage Include="Connected Services\Calculator_x0020_Web_x0020_Service" />
+      <WCFMetadataStorage Include="Connected Services\TempConvert" />
     </ItemGroup>
     <PropertyGroup>
         <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
@@ -225,7 +225,6 @@
         </PropertyGroup>
         <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
     </Target>
-    <Import Project="..\SharedProject1\SharedProject1.projitems" Label="Shared" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
          Other similar extension points exist, see Microsoft.Common.targets.
     <Target Name="BeforeBuild">
